@@ -7,6 +7,7 @@ gem 'rails', '4.0.0'
 gem 'sqlite3'
 gem 'therubyracer'
 gem 'mysql2'
+gem "typus", :git => "git://github.com/fesplugas/typus.git", :branch => "4-0-stable"
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
